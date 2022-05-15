@@ -15,8 +15,6 @@ Be sure about your medicines.
 
 ### **Download the app from...**
 
-<a href="https://play.google.com/store/apps/details?id=com.dev.drmed" >
-     <img src="../google-play-badge.png" alt="get-on-google-play" height="80"> 
-</a>
+[![get-on-google-play](../google-play-badge.png)](https://play.google.com/store/apps/details?id=com.dev.drmed)
 
 **Screenshots** 
